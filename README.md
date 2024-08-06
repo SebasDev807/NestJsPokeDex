@@ -21,5 +21,5 @@ docker-compose up -d
 ```
 
 # #Stack usado
-* MongoDB
-* Nest
+* MongoDB 🍃
+* Nest 😺
