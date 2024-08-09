@@ -6,7 +6,6 @@ import { PokemonModule } from './pokemon/pokemon.module';
 import { CommonModule } from './common/common.module';
 
 @Module({
-
   imports: [ 
     ServeStaticModule.forRoot({
       rootPath: join(__dirname,'..','public'), 
