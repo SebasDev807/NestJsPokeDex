@@ -35,7 +35,17 @@ npm i -g @nest/cli
 docker-compose up -d
 ```
 
-5. **Recargar la Base de Datos con Datos de Semilla** 🌱
+5. Clonar el archivo __.env.template__ y renonmbrar la copia a __.env___
+
+6. Llenar las variables de entorno
+
+7. Ejecutar en desarrollo
+
+```
+    yarn start:dev
+```
+
+8. **Recargar la Base de Datos con Datos de Semilla** 🌱
    <br>
    Accede al siguiente endpoint para cargar los datos de semilla en la base de datos:
 
